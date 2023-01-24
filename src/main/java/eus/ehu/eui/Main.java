@@ -6,4 +6,7 @@ public class Main {
         System.out.println("Última vesión del comentario!");
         System.out.println("Este es un nuevo mensaje!");
     }
+    public static void kk(){
+
+    }
 }
